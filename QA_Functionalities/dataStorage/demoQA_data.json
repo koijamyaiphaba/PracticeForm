@@ -1,0 +1,13 @@
+{
+    "demoQA":{
+        "url": "https://demoqa.com/automation-practice-form",
+        "DOB": "20 April 1990",
+        "subjects": "maths",
+        "fileupload": "./QA_Functionalities/fileUploads/pics.jpg",
+        "address": "5th Main 7th Cross",
+        "state": "NCR",
+        "city": "Delhi",
+        "modalHeader": "Thanks for submitting the form",
+        "hobbies": ["Sports", "Reading"]
+    }
+}
